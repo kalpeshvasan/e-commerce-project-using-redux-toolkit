@@ -47,5 +47,3 @@ Features:
 - Cart total
 - Redux Toolkit state management
 - Jest + React Testing Library tests
-
-This is intentionally kept simple so it can be extended during interview practice.
